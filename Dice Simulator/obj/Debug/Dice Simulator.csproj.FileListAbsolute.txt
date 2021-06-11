@@ -1,0 +1,17 @@
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe.config
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\bin\Debug\Dice Simulator.pdb
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator.csprojAssemblyReference.cache
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\MainWindow.g.cs
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\App.g.cs
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator_MarkupCompile.cache
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator_MarkupCompile.lref
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\App.baml
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\MainWindow.baml
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator.g.resources
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice_Simulator.Properties.Resources.resources
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.GenerateResource.cache
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator.csproj.CoreCompileInputs.cache
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator.exe
+G:\conestoga\Software development\Assignments\Assignment 5\Dice-Simulator\Dice-Simulator\Dice Simulator\obj\Debug\Dice Simulator.pdb
